@@ -7,6 +7,8 @@
 //
 
 #import "ViewController.h"
+#import <CoreLocation/CoreLocation.h>
+#import "AKLocationManager.h"
 
 @interface ViewController ()
 
@@ -14,10 +16,31 @@
 
 @implementation ViewController
 
+@synthesize title;
+
 - (void)viewDidLoad
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    
+//    CLLocationManager *location = [[CLLocationManager alloc] init];
+    
+    [AKLocationManager startLocatingWithUpdateBlock:^(CLLocation *location) {
+        CLGeocoder *geoCoder = [[CLGeocoder alloc] init];
+        [geoCoder reverseGeocodeLocation:location completionHandler:^(NSArray *placemarks, NSError *error) {
+            CLPlacemark *place = [placemarks objectAtIndex:0];
+            
+            title.title = [NSString stringWithFormat:@"%@, %@", place.locality, place.administrativeArea];
+            
+        }];
+    } failedBlock:^(NSError *error) {
+        NSLog(@"It failed!");
+    }];
+    
+    
+    
+//    title.title = location.location;
+    
 }
 
 - (void)didReceiveMemoryWarning
