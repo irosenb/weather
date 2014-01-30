@@ -1,0 +1,267 @@
+TWeather
+v6
+r1
+cCheck dependencies
+cSymLink /Users/isaac/code/iOS/Weather/build/Debug-iphonesimulator/Weather.app /Users/isaac/code/iOS/Weather/Frank/frankified_build/Weather.app
+cPhaseScriptExecution Check\ Pods\ Manifest.lock /Users/isaac/code/iOS/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Script-B18E6FB9F1DF425D8B28F1B3.sh
+cProcessPCH /var/folders/nc/cz2_mhy15511wnq0xsx_ds500000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Weather-Prefix-bqlvptbgebipydbzzwkwsdmnyecl/Weather-Prefix.pch.pch Weather/Weather-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/i386/ViewController.o /Users/isaac/code/iOS/Weather/Weather/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/i386/AppDelegate.o /Users/isaac/code/iOS/Weather/Weather/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/i386/main.o /Users/isaac/code/iOS/Weather/Weather/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/isaac/code/iOS/Weather/Frank/frankified_build/Weather.app/Weather normal i386
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk
+c0000000052814F130000000000000176
+t1384206099
+s374
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/SDKSettings.plist
+c00000000523B7B2200000000000003B5
+t1379629858
+s949
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000527CEC1800000000000001A0
+t1383918616
+s416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000527CEC1A0000000000445870
+t1383918618
+s4479088
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c00000000527CEC1A00000000000EC820
+t1383918618
+s968736
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000527CEC1B000000000088C680
+t1383918619
+s8963712
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000527CEC200000000001DB9910
+t1383918624
+s31168784
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/include/module.map
+c00000000523B7B500000000000000AC9
+t1379629904
+s2761
+
+N/Users/isaac/code/iOS/Weather/Frank/frankified_build/Weather.app/Weather
+t2
+s0
+
+N/Users/isaac/code/iOS/Weather/Pods/Headers/AKLocationManager/AKLocationManager.h
+c0000000052EA70F10000000000000F1D
+t1391096049
+s3869
+
+N/Users/isaac/code/iOS/Weather/Weather/AppDelegate.h
+c0000000052E6F6AC000000000000011D
+t1390868140
+s285
+
+N/Users/isaac/code/iOS/Weather/Weather/AppDelegate.m
+c0000000052E6F6AC00000000000007DF
+t1390868140
+s2015
+
+N/Users/isaac/code/iOS/Weather/Weather/ViewController.h
+c0000000052E93F6C000000000000011F
+t1391017836
+s287
+
+N/Users/isaac/code/iOS/Weather/Weather/ViewController.m
+c0000000052E9546600000000000004E9
+t1391023206
+s1257
+
+N/Users/isaac/code/iOS/Weather/Weather/Weather-Prefix.pch
+c0000000052E6F6AC0000000000000158
+t1390868140
+s344
+
+N/Users/isaac/code/iOS/Weather/Weather/main.m
+c0000000052E6F6AC0000000000000159
+t1390868140
+s345
+
+N/Users/isaac/code/iOS/Weather/build/Debug-iphonesimulator/Weather.app
+t2
+s0
+
+N/Users/isaac/code/iOS/Weather/build/Debug-iphonesimulator/libPods-Weather.a
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/isaac/code/iOS/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/i386/AppDelegate.o
+t1391104550
+s65200
+
+N/Users/isaac/code/iOS/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/i386/ViewController.o
+t1391104550
+s52376
+
+N/Users/isaac/code/iOS/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/i386/Weather.LinkFileList
+c0000000052EA92260000000000000164
+t1391104550
+s356
+
+N/Users/isaac/code/iOS/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/i386/main.o
+t1391104550
+s3624
+
+N/Users/isaac/code/iOS/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Script-B18E6FB9F1DF425D8B28F1B3.sh
+c0000000052EA92260000000000000103
+t1391104550
+s259
+
+N/var/folders/nc/cz2_mhy15511wnq0xsx_ds500000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Weather-Prefix-bqlvptbgebipydbzzwkwsdmnyecl/Weather-Prefix.pch.pch
+t1391104550
+s114732
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesf44e89a6c99ab841^2ba18fa6c99ab841^---0#1#1#--18"Check dependencies36"7CC834EE-909D-42FF-9891-B1017AB7698C-
+
+CCompileAssetCatalog /Users/isaac/code/iOS/Weather/Frank/frankified_build/Weather.app /Users/isaac/code/iOS/Weather/Weather/Images.xcassets
+r0
+
+CCompileC build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/i386/AppDelegate.o /Users/isaac/code/iOS/Weather/Weather/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412797350.751504
+e412797350.880020
+r1
+xCompileC
+xbuild/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/i386/AppDelegate.o
+x/Users/isaac/code/iOS/Weather/Weather/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/isaac/code/iOS/Weather/Weather/AppDelegate.m
+d/Users/isaac/code/iOS/Weather/Weather/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Compile /Users/isaac/code/iOS/Weather/Weather/AppDelegate.m204"[1mCompileC[0m build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/i386/AppDelegate.o [1mWeather/AppDelegate.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler598ac0a6c99ab841^4d4ae1a6c99ab841^---0#0#1#-19%DVTDocumentLocation2@58"file:///Users/isaac/code/iOS/Weather/Weather/AppDelegate.m0000000000000000^3769"[1mCompileC[0m build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/i386/AppDelegate.o [1mWeather/AppDelegate.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/isaac/code/iOS/Weather    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/isaac/.rvm/gems/ruby-2.0.0-p247/bin:/Users/isaac/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/isaac/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/isaac/.rvm/bin:/usr/local/php5/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/var/folders/nc/cz2_mhy15511wnq0xsx_ds500000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/ModuleCache -fmodules-ignore-macro=FRANKIFIED -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/isaac/code/iOS/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Weather-generated-files.hmap -I/Users/isaac/code/iOS/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Weather-own-target-headers.hmap -I/Users/isaac/code/iOS/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Weather-all-target-headers.hmap -iquote /Users/isaac/code/iOS/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Weather-project-headers.hmap -I/Users/isaac/code/iOS/Weather/build/Debug-iphonesimulator/include -I/Users/isaac/code/iOS/Weather/Pods/Headers -I/Users/isaac/code/iOS/Weather/Pods/Headers/AKLocationManager -I/Users/isaac/code/iOS/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/DerivedSources/i386 -I/Users/isaac/code/iOS/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/DerivedSources -F/Users/isaac/code/iOS/Weather/build/Debug-iphonesimulator -include /var/folders/nc/cz2_mhy15511wnq0xsx_ds500000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Weather-Prefix-bqlvptbgebipydbzzwkwsdmnyecl/Weather-Prefix.pch -DFRANKIFIED -MMD -MT dependencies -MF /Users/isaac/code/iOS/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/isaac/code/iOS/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/i386/AppDelegate.dia -c /Users/isaac/code/iOS/Weather/Weather/AppDelegate.m -o /Users/isaac/code/iOS/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/i386/AppDelegate.o36"4B12BBD1-7917-472D-8D23-6304A8213180-
+bCDF326FF-7F7F-4E80-83DE-6BA00CE13EB7
+
+CCompileC build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/i386/ViewController.o /Users/isaac/code/iOS/Weather/Weather/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412797350.751264
+e412797350.875398
+r1
+xCompileC
+xbuild/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/i386/ViewController.o
+x/Users/isaac/code/iOS/Weather/Weather/ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/isaac/code/iOS/Weather/Weather/ViewController.m
+d/Users/isaac/code/iOS/Weather/Weather/ViewController.h
+d/Users/isaac/code/iOS/Weather/Pods/Headers/AKLocationManager/AKLocationManager.h
+oIn file included from /Users/isaac/code/iOS/Weather/Weather/ViewController.m:9:
+o[1m/Users/isaac/code/iOS/Weather/Weather/ViewController.h:14:56: [0m[0;1;35mwarning: [0m[1m'copy'
+o      attribute on property 'title' does not match the property inherited from
+o      'UIViewController'[0m
+o@property (weak, nonatomic) IBOutlet UINavigationItem *title;
+o[0;1;32m                                                       ^
+o[0m[1m/Users/isaac/code/iOS/Weather/Weather/ViewController.h:14:56: [0m[0;1;35mwarning: [0m[1mproperty
+o      type 'UINavigationItem *' is incompatible with type 'NSString *' inherited
+o      from 'UIViewController'[0m
+oIn module 'UIKit' imported from /Users/isaac/code/iOS/Weather/Weather/ViewController.h:9:
+o[1m/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIViewController.h:198:37: [0m[0;1;30mnote: [0m
+o      property declared here[0m
+o@property(nonatomic,copy) NSString *title;  // Localized title for use b...
+o[0;1;32m                                    ^
+o[0m2 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"Compile /Users/isaac/code/iOS/Weather/Weather/ViewController.m210"[1mCompileC[0m build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/i386/ViewController.o [1mWeather/ViewController.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler1573c0a6c99ab841^371ae0a6c99ab841^-1136"In file included from /Users/isaac/code/iOS/Weather/Weather/ViewController.m:9:[1m/Users/isaac/code/iOS/Weather/Weather/ViewController.h:14:56: [0m[0;1;35mwarning: [0m[1m'copy'      attribute on property 'title' does not match the property inherited from      'UIViewController'[0m@property (weak, nonatomic) IBOutlet UINavigationItem *title;[0;1;32m                                                       ^[0m[1m/Users/isaac/code/iOS/Weather/Weather/ViewController.h:14:56: [0m[0;1;35mwarning: [0m[1mproperty      type 'UINavigationItem *' is incompatible with type 'NSString *' inherited      from 'UIViewController'[0mIn module 'UIKit' imported from /Users/isaac/code/iOS/Weather/Weather/ViewController.h:9:[1m/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIViewController.h:198:37: [0m[0;1;30mnote: [0m      property declared here[0m@property(nonatomic,copy) NSString *title;  // Localized title for use b...[0;1;32m                                    ^[0m2 warnings generated.2(36%IDEClangDiagnosticActivityLogMessage2@98"'copy' attribute on property 'title' does not match the property inherited from 'UIViewController'-412797350#18446744073709551615#0#1(2@79"In file included from /Users/isaac/code/iOS/Weather/Weather/ViewController.m:9:-412797350#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@61"file:///Users/isaac/code/iOS/Weather/Weather/ViewController.m0000000000000000^8#8#8#8#155#0#21"Apple LLVM 5.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@61"file:///Users/isaac/code/iOS/Weather/Weather/ViewController.h0000000000000000^13#55#13#55#274#0#14"Semantic Issue--2@107"Property type 'UINavigationItem *' is incompatible with type 'NSString *' inherited from 'UIViewController'-412797350#18446744073709551615#0#2(2@79"In file included from /Users/isaac/code/iOS/Weather/Weather/ViewController.m:9:-412797350#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@61"file:///Users/isaac/code/iOS/Weather/Weather/ViewController.m0000000000000000^8#8#8#8#155#0#21"Apple LLVM 5.0 Notice--2@22"Property declared here-412797350#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@191"file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIViewController.h0000000000000000^197#36#197#36#10192#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@61"file:///Users/isaac/code/iOS/Weather/Weather/ViewController.h0000000000000000^13#55#13#55#274#0#14"Semantic Issue--0#0#1#-19%DVTDocumentLocation4@61"file:///Users/isaac/code/iOS/Weather/Weather/ViewController.m0000000000000000^3787"[1mCompileC[0m build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/i386/ViewController.o [1mWeather/ViewController.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/isaac/code/iOS/Weather    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/isaac/.rvm/gems/ruby-2.0.0-p247/bin:/Users/isaac/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/isaac/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/isaac/.rvm/bin:/usr/local/php5/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/var/folders/nc/cz2_mhy15511wnq0xsx_ds500000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/ModuleCache -fmodules-ignore-macro=FRANKIFIED -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/isaac/code/iOS/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Weather-generated-files.hmap -I/Users/isaac/code/iOS/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Weather-own-target-headers.hmap -I/Users/isaac/code/iOS/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Weather-all-target-headers.hmap -iquote /Users/isaac/code/iOS/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Weather-project-headers.hmap -I/Users/isaac/code/iOS/Weather/build/Debug-iphonesimulator/include -I/Users/isaac/code/iOS/Weather/Pods/Headers -I/Users/isaac/code/iOS/Weather/Pods/Headers/AKLocationManager -I/Users/isaac/code/iOS/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/DerivedSources/i386 -I/Users/isaac/code/iOS/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/DerivedSources -F/Users/isaac/code/iOS/Weather/build/Debug-iphonesimulator -include /var/folders/nc/cz2_mhy15511wnq0xsx_ds500000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Weather-Prefix-bqlvptbgebipydbzzwkwsdmnyecl/Weather-Prefix.pch -DFRANKIFIED -MMD -MT dependencies -MF /Users/isaac/code/iOS/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/i386/ViewController.d --serialize-diagnostics /Users/isaac/code/iOS/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/i386/ViewController.dia -c /Users/isaac/code/iOS/Weather/Weather/ViewController.m -o /Users/isaac/code/iOS/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/i386/ViewController.o36"0A80DFB8-CE6C-42CF-AAC3-C161C15EE020-
+bCDF326FF-7F7F-4E80-83DE-6BA00CE13EB7
+
+CCompileC build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/i386/main.o /Users/isaac/code/iOS/Weather/Weather/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412797350.751797
+e412797350.794459
+r1
+xCompileC
+xbuild/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/i386/main.o
+x/Users/isaac/code/iOS/Weather/Weather/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/isaac/code/iOS/Weather/Weather/main.m
+d/Users/isaac/code/iOS/Weather/Weather/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection52"Compile /Users/isaac/code/iOS/Weather/Weather/main.m190"[1mCompileC[0m build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/i386/main.o [1mWeather/main.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler2596c0a6c99ab841^b263cba6c99ab841^---0#0#1#-19%DVTDocumentLocation2@51"file:///Users/isaac/code/iOS/Weather/Weather/main.m0000000000000000^3727"[1mCompileC[0m build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/i386/main.o [1mWeather/main.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/isaac/code/iOS/Weather    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/isaac/.rvm/gems/ruby-2.0.0-p247/bin:/Users/isaac/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/isaac/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/isaac/.rvm/bin:/usr/local/php5/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/var/folders/nc/cz2_mhy15511wnq0xsx_ds500000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/ModuleCache -fmodules-ignore-macro=FRANKIFIED -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/isaac/code/iOS/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Weather-generated-files.hmap -I/Users/isaac/code/iOS/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Weather-own-target-headers.hmap -I/Users/isaac/code/iOS/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Weather-all-target-headers.hmap -iquote /Users/isaac/code/iOS/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Weather-project-headers.hmap -I/Users/isaac/code/iOS/Weather/build/Debug-iphonesimulator/include -I/Users/isaac/code/iOS/Weather/Pods/Headers -I/Users/isaac/code/iOS/Weather/Pods/Headers/AKLocationManager -I/Users/isaac/code/iOS/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/DerivedSources/i386 -I/Users/isaac/code/iOS/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/DerivedSources -F/Users/isaac/code/iOS/Weather/build/Debug-iphonesimulator -include /var/folders/nc/cz2_mhy15511wnq0xsx_ds500000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Weather-Prefix-bqlvptbgebipydbzzwkwsdmnyecl/Weather-Prefix.pch -DFRANKIFIED -MMD -MT dependencies -MF /Users/isaac/code/iOS/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/isaac/code/iOS/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/i386/main.dia -c /Users/isaac/code/iOS/Weather/Weather/main.m -o /Users/isaac/code/iOS/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/i386/main.o36"1D7B68EF-D9FB-4A15-8300-DE5CE1EF1879-
+bCDF326FF-7F7F-4E80-83DE-6BA00CE13EB7
+
+CCompileStoryboard /Users/isaac/code/iOS/Weather/Weather/Base.lproj/Main_iPad.storyboard
+r0
+
+CCompileStoryboard /Users/isaac/code/iOS/Weather/Weather/Base.lproj/Main_iPhone.storyboard
+r0
+
+CCopyStringsFile /Users/isaac/code/iOS/Weather/Frank/frankified_build/Weather.app/en.lproj/InfoPlist.strings Weather/en.lproj/InfoPlist.strings
+r0
+
+CGenerateDSYMFile /Users/isaac/code/iOS/Weather/build/Debug-iphonesimulator/Weather.app.dSYM /Users/isaac/code/iOS/Weather/Frank/frankified_build/Weather.app/Weather
+r0
+
+CLd /Users/isaac/code/iOS/Weather/Frank/frankified_build/Weather.app/Weather normal i386
+s412797350.880840
+e412797350.896333
+r0
+xLd
+x/Users/isaac/code/iOS/Weather/Frank/frankified_build/Weather.app/Weather
+xnormal
+xi386
+d/Users/isaac/code/iOS/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/i386/Weather.LinkFileList
+old: library not found for -lPods-Weather
+oclang: error: linker command failed with exit code 1 (use -v to see invocation)
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Link /Users/isaac/code/iOS/Weather/Frank/frankified_build/Weather.app/Weather65"[1mLd[0m Frank/frankified_build/Weather.app/Weather normal i3866c94e1a6c99ab841^f375e5a6c99ab841^-121"ld: library not found for -lPods-Weatherclang: error: linker command failed with exit code 1 (use -v to see invocation)2(21%IDEActivityLogMessage2@36"Library not found for -lPods-Weather-412797350#0#41#-0#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@65"Linker command failed with exit code 1 (use -v to see invocation)-412797350#41#80#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Apple Mach-O Linker Error--0#0#1#--1714"[1mLd[0m Frank/frankified_build/Weather.app/Weather normal i386    cd /Users/isaac/code/iOS/Weather    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/isaac/.rvm/gems/ruby-2.0.0-p247/bin:/Users/isaac/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/isaac/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/isaac/.rvm/bin:/usr/local/php5/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -L/Users/isaac/code/iOS/Weather/build/Debug-iphonesimulator -L/Users/isaac/code/iOS/Weather/Frank -F/Users/isaac/code/iOS/Weather/build/Debug-iphonesimulator -filelist /Users/isaac/code/iOS/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/i386/Weather.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -ObjC -framework CoreLocation -all_load -ObjC -framework CFNetwork -framework Security -lShelley -lCocoaAsyncSocket -lCocoaLumberjack -lCocoaHTTPServer -lFrank -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.0 -framework CoreLocation -framework CoreGraphics -framework UIKit -framework Foundation -lPods-Weather -Xlinker -dependency_info -Xlinker /Users/isaac/code/iOS/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Objects-normal/i386/Weather_dependency_info.dat -o /Users/isaac/code/iOS/Weather/Frank/frankified_build/Weather.app/Weather36"45BC9852-934A-4CD3-BC22-98096C7BE956-
+bCDF326FF-7F7F-4E80-83DE-6BA00CE13EB7
+
+CPhaseScriptExecution Check\ Pods\ Manifest.lock /Users/isaac/code/iOS/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Script-B18E6FB9F1DF425D8B28F1B3.sh
+s412797350.567191
+e412797350.581198
+r1
+xPhaseScriptExecution
+xCheck Pods Manifest.lock
+x/Users/isaac/code/iOS/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Script-B18E6FB9F1DF425D8B28F1B3.sh
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Run custom shell script 'Check Pods Manifest.lock'146"[1mPhaseScriptExecution[0m Check\ Pods\ Manifest.lock build/Weather.build/Debug-iphonesimulator/Weather.build/Script-B18E6FB9F1DF425D8B28F1B3.sh728b91a6c99ab841^dac994a6c99ab841^---0#0#1#--320"[1mPhaseScriptExecution[0m Check\ Pods\ Manifest.lock build/Weather.build/Debug-iphonesimulator/Weather.build/Script-B18E6FB9F1DF425D8B28F1B3.sh    cd /Users/isaac/code/iOS/Weather    /bin/sh -c /Users/isaac/code/iOS/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Script-B18E6FB9F1DF425D8B28F1B3.sh36"947B178C-25B0-4FD3-8962-C2BFD550E131-
+bCDF326FF-7F7F-4E80-83DE-6BA00CE13EB7
+
+CPhaseScriptExecution Copy\ Pods\ Resources /Users/isaac/code/iOS/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Script-050E7DE11BD2417BAACB5CED.sh
+r0
+
+CProcessInfoPlistFile /Users/isaac/code/iOS/Weather/Frank/frankified_build/Weather.app/Info.plist /Users/isaac/code/iOS/Weather/Weather/Weather-Info.plist
+r0
+
+CProcessPCH /var/folders/nc/cz2_mhy15511wnq0xsx_ds500000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Weather-Prefix-bqlvptbgebipydbzzwkwsdmnyecl/Weather-Prefix.pch.pch Weather/Weather-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412797350.581887
+e412797350.750168
+r1
+xProcessPCH
+x/var/folders/nc/cz2_mhy15511wnq0xsx_ds500000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Weather-Prefix-bqlvptbgebipydbzzwkwsdmnyecl/Weather-Prefix.pch.pch
+xWeather/Weather-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/isaac/code/iOS/Weather/Weather/Weather-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Precompile Weather/Weather-Prefix.pch298"[1mProcessPCH[0m /var/folders/nc/cz2_mhy15511wnq0xsx_ds500000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Weather-Prefix-bqlvptbgebipydbzzwkwsdmnyecl/Weather-Prefix.pch.pch Weather/Weather-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler271195a6c99ab841^b70cc0a6c99ab841^---0#0#1#-19%DVTDocumentLocation2@63"file:///Users/isaac/code/iOS/Weather/Weather/Weather-Prefix.pch0000000000000000^3863"[1mProcessPCH[0m /var/folders/nc/cz2_mhy15511wnq0xsx_ds500000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Weather-Prefix-bqlvptbgebipydbzzwkwsdmnyecl/Weather-Prefix.pch.pch Weather/Weather-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/isaac/code/iOS/Weather    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/isaac/.rvm/gems/ruby-2.0.0-p247/bin:/Users/isaac/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/isaac/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/isaac/.rvm/bin:/usr/local/php5/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/var/folders/nc/cz2_mhy15511wnq0xsx_ds500000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/ModuleCache -fmodules-ignore-macro=FRANKIFIED -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/isaac/code/iOS/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Weather-generated-files.hmap -I/Users/isaac/code/iOS/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Weather-own-target-headers.hmap -I/Users/isaac/code/iOS/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Weather-all-target-headers.hmap -iquote /Users/isaac/code/iOS/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/Weather-project-headers.hmap -I/Users/isaac/code/iOS/Weather/build/Debug-iphonesimulator/include -I/Users/isaac/code/iOS/Weather/Pods/Headers -I/Users/isaac/code/iOS/Weather/Pods/Headers/AKLocationManager -I/Users/isaac/code/iOS/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/DerivedSources/i386 -I/Users/isaac/code/iOS/Weather/build/Weather.build/Debug-iphonesimulator/Weather.build/DerivedSources -F/Users/isaac/code/iOS/Weather/build/Debug-iphonesimulator --serialize-diagnostics /var/folders/nc/cz2_mhy15511wnq0xsx_ds500000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Weather-Prefix-bqlvptbgebipydbzzwkwsdmnyecl/Weather-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/nc/cz2_mhy15511wnq0xsx_ds500000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Weather-Prefix-bqlvptbgebipydbzzwkwsdmnyecl/Weather-Prefix.pch.d -c /Users/isaac/code/iOS/Weather/Weather/Weather-Prefix.pch -o /var/folders/nc/cz2_mhy15511wnq0xsx_ds500000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Weather-Prefix-bqlvptbgebipydbzzwkwsdmnyecl/Weather-Prefix.pch.pch36"FAB7BBD8-1F18-4FF3-83E4-09121CBF8456-
+bCDF326FF-7F7F-4E80-83DE-6BA00CE13EB7
+
+CSymLink /Users/isaac/code/iOS/Weather/build/Debug-iphonesimulator/Weather.app /Users/isaac/code/iOS/Weather/Frank/frankified_build/Weather.app
+s412797350.562223
+e412797350.566152
+r1
+xSymLink
+x/Users/isaac/code/iOS/Weather/build/Debug-iphonesimulator/Weather.app
+x/Users/isaac/code/iOS/Weather/Frank/frankified_build/Weather.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Process /Users/isaac/code/iOS/Weather/build/Debug-iphonesimulator/Weather.app90"[1mSymLink[0m build/Debug-iphonesimulator/Weather.app Frank/frankified_build/Weather.app350b90a6c99ab841^56ef90a6c99ab841^---0#0#1#--682"[1mSymLink[0m build/Debug-iphonesimulator/Weather.app Frank/frankified_build/Weather.app    cd /Users/isaac/code/iOS/Weather    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/isaac/.rvm/gems/ruby-2.0.0-p247/bin:/Users/isaac/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/isaac/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/isaac/.rvm/bin:/usr/local/php5/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    /bin/ln -sf /Users/isaac/code/iOS/Weather/Frank/frankified_build/Weather.app /Users/isaac/code/iOS/Weather/build/Debug-iphonesimulator/Weather.app36"DE6DE814-0D65-4E7B-90EB-24CA6BC8F605-
+bCDF326FF-7F7F-4E80-83DE-6BA00CE13EB7
+
+CTouch /Users/isaac/code/iOS/Weather/Frank/frankified_build/Weather.app
+r0
+
